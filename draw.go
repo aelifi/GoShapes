@@ -7,15 +7,6 @@ import (
   "errors"
 )
 
-//HEADER
-//Program written by Aleksandr Elifirenko aelifi2, 12/1/2023
-//Project 3: (Go)
-//
-//This program has two intefaces implemented: geometry for shapes and screen for drawing the shapes. The 
-//shapes implemented are triangle, rectangle and circle. Colors for the shapes are stored in a map. So when
-//the shapes are drawn, you can write out the ppm file the cordinates of the shapes. 
-//
-
 // Constants for in a map
 var red Color = 0
 var green Color = 1
